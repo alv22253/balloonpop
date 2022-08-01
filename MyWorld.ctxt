@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=MyWorld
+comment0.text=\r\n\ \r\n
+comment1.params=
+comment1.target=MyWorld()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ MyWorld.\r\n
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=Vida\ getVida()
+comment4.params=
+comment4.target=contador\ getcontador()
+comment5.params=
+comment5.target=void\ prepare()
+comment6.params=
+comment6.target=void\ addGloboVerde()
+numComments=7
